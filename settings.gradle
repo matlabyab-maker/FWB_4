@@ -1,0 +1,2 @@
+rootProject.name = "FWB_4"
+include ':app'
